@@ -1,4 +1,4 @@
-![logo](https://github.com/SRAJANSHETTY8/SRAAZ-SHETTY/blob/706a3f47be37dea630706bda10be55fde632a9a4/githubbanner.png.jpg)
+![logo](https://github.com/SRAJANSHETTY8/SRAAZ-SHETTY/blob/416ed27351d5e4fc67f68d3a1e3596a7e0019f70/SRAAZ-SHETTY.png)
 <h1 align="center">Hi 👋, I'm srajan shetty/sraaz</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 <img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
