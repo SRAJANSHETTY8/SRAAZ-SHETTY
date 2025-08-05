@@ -30,7 +30,7 @@
   <a href="https://kaggle.com/sraazshetty8" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_srajan_shetty_" target="blank">
+  <a href="https://www.instagram.com/_srajan__shetty_?igsh=aHE1am9sa3VzMjBi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
