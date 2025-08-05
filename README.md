@@ -1,7 +1,7 @@
-<!-- Profile Header -->
+
 <img src="https://github.com/SRAJANSHETTY8/SRAAZ-SHETTY/blob/416ed27351d5e4fc67f68d3a1e3596a7e0019f70/SRAAZ-SHETTY.png" alt="logo" />
 
-<h1 align="center">Hi 👋, I'm Srajan Shetty / Sraaz</h1>
+<h1 align="center">Hi , I'm Srajan Shetty / Sraaz</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
@@ -10,18 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=srajanshetty&label=Profile%20views&color=0e75b6&style=flat" alt="srajanshetty" />
 </p>
 
-<!-- About Me -->
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/srajan-shetty-122746269](https://www.linkedin.com/in/srajan-shetty-122746269)
+-  I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **AI and machine learning projects**
+-  All of my projects are available at [https://www.linkedin.com/in/srajan-shetty-122746269](https://www.linkedin.com/in/srajan-shetty-122746269)
 
-- 📫 How to reach me **shettysrajan760@gmail.com**
+-  Ask me about **AI and machine learning projects**
 
-- ⚡ Fun fact **I believe in “Hello World” as the ultimate greeting for new beginnings.**
+-  How to reach me **shettysrajan760@gmail.com**
 
-<!-- Social Links -->
+- Fun fact **I believe in “Hello World” as the ultimate greeting for new beginnings.**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/srajan-shetty-122746269" target="blank">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<!-- Skills -->
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srajanshetty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
